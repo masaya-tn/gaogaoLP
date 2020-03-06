@@ -1,0 +1,37 @@
+.masthead-heading{
+    color:black;
+}
+
+
+
+.seijin{
+    
+}
+.item-wrapper{
+    display:flex;
+}
+.skills{
+    text-align: center;
+    font-size:50px;
+    color:#2c3e50;
+    margin-bottom:30px;
+    
+}
+
+.skill-wrapper{
+}
+.skill-icon{
+    
+}
+.portfolio{
+    background-color:black;
+}
+.item1{
+    height:10px;
+}
+#mainNav .navbar-nav li.nav-item a.nav-link.active {
+    background-color:#ffc107 ;
+}
+#mainNav .navbar-nav li.nav-item a.nav-link:hover {
+    color:#ffc107 ;
+}
